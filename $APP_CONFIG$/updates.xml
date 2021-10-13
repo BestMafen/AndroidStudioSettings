@@ -1,0 +1,48 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <enabledExternalComponentSources>
+      <item value="Android SDK" />
+    </enabledExternalComponentSources>
+    <option name="externalUpdateChannels">
+      <map>
+        <entry key="Android SDK" value="Stable Channel" />
+      </map>
+    </option>
+    <ignoredBuildNumbers>
+      <item value="emulator#28.0.16" />
+      <item value="emulator#28.0.20" />
+      <item value="emulator#28.0.22" />
+      <item value="182.5107.16.33.5199772" />
+      <item value="182.5107.16.33.5264788" />
+      <item value="emulator#28.0.23" />
+      <item value="ndk-bundle#19.1.5304403" />
+      <item value="emulator#29.1.12" />
+      <item value="extras;google;instantapps#1.9.0" />
+      <item value="emulator#29.2.0" />
+      <item value="emulator#29.2.1" />
+      <item value="platform-tools#29.0.5" />
+      <item value="emulator#29.2.11" />
+      <item value="emulator#29.3.0" />
+      <item value="platforms;android-29#4" />
+      <item value="emulator#30.0.5" />
+      <item value="ndk-bundle#21.1.6352462" />
+      <item value="emulator#30.0.12" />
+      <item value="platform-tools#30.0.1" />
+      <item value="system-images;android-22;google_apis;x86#25" />
+      <item value="system-images;android-23;google_apis;x86#32" />
+      <item value="emulator#30.0.26" />
+      <item value="system-images;android-22;google_apis;x86#26" />
+      <item value="system-images;android-23;google_apis;x86#33" />
+      <item value="202.7660.26.42.6987402" />
+      <item value="202.7660.26.42.7033425" />
+      <item value="emulator#30.7.5" />
+      <item value="emulator#30.8.4" />
+    </ignoredBuildNumbers>
+    <knownExternalComponentSources>
+      <item value="Android SDK" />
+    </knownExternalComponentSources>
+    <option name="LAST_BUILD_CHECKED" value="AI-203.7717.56.2031.7784292" />
+    <option name="LAST_TIME_CHECKED" value="1634137901169" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
