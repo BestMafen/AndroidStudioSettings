@@ -1,14 +1,12 @@
 <application>
   <component name="ProjectManager">
     <defaultProject>
-      <component name="CMakeSettings">
-        <configurations>
-          <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
-        </configurations>
-      </component>
       <component name="ProjectCodeStyleConfiguration">
         <code_scheme name="Project" version="173">
           <codeStyleSettings language="XML">
+            <indentOptions>
+              <option name="CONTINUATION_INDENT_SIZE" value="4" />
+            </indentOptions>
             <arrangement>
               <rules>
                 <section>
@@ -122,12 +120,12 @@
       <component name="ProjectViewState">
         <option name="flattenPackages" value="true" />
         <option name="hideEmptyMiddlePackages" value="true" />
-        <option name="showExcludedFiles" value="true" />
         <option name="showLibraryContents" value="true" />
+        <option name="showVisibilityIcons" value="true" />
       </component>
       <component name="PropertiesComponent">
-        <property name="android.sdk.path" value="E:/dev/Android/sdk" />
-        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+        <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+        <property name="settings.editor.selected.configurable" value="preferences.keymap" />
       </component>
     </defaultProject>
   </component>
