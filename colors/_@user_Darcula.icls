@@ -3,7 +3,7 @@
     <property name="created">2021-10-12T16:39:39</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2020.3.1.25</property>
-    <property name="modified">2021-10-13T11:48:27</property>
+    <property name="modified">2021-10-14T09:14:52</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -17,9 +17,33 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="20a020" />
+        <option name="ERROR_STRIPE_COLOR" value="20a020" />
+      </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="ff20c4" />
+        <option name="ERROR_STRIPE_COLOR" value="ff20c4" />
       </value>
     </option>
   </attributes>
