@@ -3,16 +3,10 @@
     <property name="created">2018-10-31T23:15:00</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.2.1.0</property>
-    <property name="modified">2021-10-13T23:14:45</property>
+    <property name="modified">2021-10-15T00:33:38</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
-    <option name="DEFAULT_INSTANCE_FIELD">
-      <value>
-        <option name="FOREGROUND" value="9876aa" />
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="33b5e5" />
@@ -48,27 +42,27 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="33332c" />
+        <option name="BACKGROUND" value="3a3a2c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="2e332e" />
+        <option name="BACKGROUND" value="313a31" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="332e33" />
+        <option name="BACKGROUND" value="3a313a" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="2c3232" />
+        <option name="BACKGROUND" value="2e3939" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="382929" />
+        <option name="BACKGROUND" value="452828" />
       </value>
     </option>
     <option name="KOTLIN_EXTENSION_PROPERTY">
